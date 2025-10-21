@@ -1,4 +1,4 @@
-# 🍽️ Tugas Pemrograman Jaringan
+#  Tugas Pemrograman Jaringan
 
 ## 🧰 Teknologi yang Digunakan
 | Komponen | Keterangan |
